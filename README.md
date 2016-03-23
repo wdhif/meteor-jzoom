@@ -6,6 +6,7 @@ A tiny and easy-using jQuery plugin for zoomimg images
 
 * [Quick start](#quick-start)
 * [Options](#options)
+* [Attentions](#attentions)
 
 ##Quick start
 
