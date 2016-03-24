@@ -7,11 +7,10 @@ A tiny and easy-using jQuery plugin for zoomimg images
 * [Quick start](#quick-start)
 * [Options](#options)
 * [Attentions](#attentions)
-* [License](#license)
 
 ##Quick start
 
-The following files should be included.
+Get the package with :
 
 ```
 meteor add wdhif:jzoom
