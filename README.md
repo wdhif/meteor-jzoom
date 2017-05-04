@@ -1,14 +1,14 @@
-#jZoom
+# jZoom
 
 A tiny and easy-using jQuery plugin for zoomimg images
 
-##Index
+## Index
 
 * [Quick start](#quick-start)
 * [Options](#options)
 * [Attentions](#attentions)
 
-##Quick start
+## Quick start
 
 Get the package with :
 
@@ -24,7 +24,7 @@ $('#container').jzoom();
 
 All done !
 
-##Options
+## Options
 
 Custom the plugin with available options which are listed below.
 
@@ -49,7 +49,7 @@ $('#container').jzoom({
 | suffixName | String | "_big" | The suffix name of big image. |
 | imgType | String | the zoomed image type | The type of big image. The default option is recommended. |
 
-##Attentions
+## Warning
 
 1. No CSS needed.
 
